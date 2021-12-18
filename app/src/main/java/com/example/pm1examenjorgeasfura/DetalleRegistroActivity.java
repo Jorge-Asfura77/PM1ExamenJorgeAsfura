@@ -1,7 +1,5 @@
 package com.example.pm1examenjorgeasfura;
 
-package apps.IrvinTheSenpai.PM1_Examen_P3_0004;
-
 import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.AppCompatActivity;
 
